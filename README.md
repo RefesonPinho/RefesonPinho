@@ -1,12 +1,6 @@
  Hello  I'm Refeson Pinho."
 
-<!--
-**RefesonPinho/RefesonPinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--Cursando segundo semestre em analise e desenvolvimento de software na faculdade SENAC em Joinville-SC.
--🔭 Atualmente, estou buscando estagio no campo de TI ...
--🌱 Atualmente estou aprendendo a linguagem Java e    disciplinas de banco de dados como(criar modelo,gerar script,inserir ,atualizar e consultar esses dados)  ...
-- 👯 Estou procurando colaborar em um projeto de desenvolvimento de um site, projeto esse que estou de maneira voluntaria como scrum master podendo ajudar,facilitar e aprender como liderar equipes dentro do desenvolvimento de aplicações em geral no campo da tecnologia ...
---
+Studying second semester in software analysis and development at SENAC College in Joinville-SC.
+🔭 I am currently looking for an internship in the IT field.
+-🌱 I am currently learning the Java language and database disciplines such as (create model, generate script, insert, update and query this data).
+- 👯 I'm looking to collaborate on a website development project, which I'm voluntarily as a scrum master being able to help, facilitate and learn how to lead teams within the development of applications in general in the field of technology.

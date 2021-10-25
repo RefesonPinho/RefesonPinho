@@ -8,7 +8,7 @@
 
 -👯 I'm looking to collaborate on a website development project, which I'm voluntarily as a scrum master being able to help, facilitate and learn how to lead teams within the development of applications in general in the field of technology.
 
-From Bahia,Brasil to the world✈🌍 
+From Bahia, Brazil to the world✈🌍 
 
 ![image](https://user-images.githubusercontent.com/89049212/138755263-6371bca9-33e4-4301-822c-d362e503f686.png), 
 

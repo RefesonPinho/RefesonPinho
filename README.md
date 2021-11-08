@@ -18,7 +18,7 @@ From Bahia, Brazil to the world✈🌍
 </div>
 
 
- ![image](https://user-images.githubusercontent.com/89049212/138759942-586be552-8b60-496f-8593-b3266a59b041.png), ![image](https://user-images.githubusercontent.com/89049212/138760495-b6b79d3c-47fc-4ab7-a3d6-2c384c2f571d.png)
+ images.githubusercontent.com/89049212/138760495-b6b79d3c-47fc-4ab7-a3d6-2c384c2f571d.png)
 
  
  <div> 

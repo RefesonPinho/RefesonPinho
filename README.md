@@ -17,10 +17,8 @@ From Bahia, Brazil to the world✈🌍
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefesonPinho&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-
- For further information and examples of using image icons, see
- * <a href="https://docs.oracle.com/javase/tutorial/uiswing/components/icon.html">How to Use Icons</a>
- * in <em>The Java Tutorial.</em>
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+ 
 
  
  <div> 

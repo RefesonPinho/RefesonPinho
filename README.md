@@ -21,7 +21,7 @@ From Bahia, Brazil to the world✈🌍
 <img align="center" alt="java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
    style="max-width:100%;">
  
- ![mysql-logo-pngrepo-com](https://user-images.githubusercontent.com/89049212/140741514-05aa67dc-9745-4cd9-9e44-65a4bdf3f440.png)
+ ![mysql](https://user-images.githubusercontent.com/89049212/140741844-e3c40d5e-8860-40e6-bf89-04c167c65a00.png)
 
  
 

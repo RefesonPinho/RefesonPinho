@@ -17,7 +17,7 @@ From Bahia, Brazil to the world✈🌍
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefesonPinho&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
  
 
  

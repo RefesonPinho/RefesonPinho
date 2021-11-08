@@ -19,9 +19,9 @@ From Bahia, Brazil to the world✈🌍
 
  # My Skills
 <img align="center" alt="java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-   style="max-width:100%;">,           ![mysql (2)](https://user-images.githubusercontent.com/89049212/140742094-41ec6ab2-c66f-4aa2-950f-7c434c758139.png)
+   style="max-width:100%;">,          
+  ![mysql (2)](https://user-images.githubusercontent.com/89049212/140742094-41ec6ab2-c66f-4aa2-950f-7c434c758139.png)
 
- 
  
 
  

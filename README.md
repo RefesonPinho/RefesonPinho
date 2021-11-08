@@ -26,6 +26,7 @@ From Bahia, Brazil to the world✈🌍
  
  <div> 
  
+ My network of contacts
 <a href="https://www.linkedin.com/in/refeson-pinho-tecnologia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 

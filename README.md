@@ -9,7 +9,6 @@ From Bahia, Brazil to the world✈🌍
 
 -🌱 I am currently learning the Java language and database disciplines such as (create model, generate script, insert, update and query this data).
 
--👯 I'm looking to collaborate on a website development project, which I'm voluntarily as a scrum master being able to help, facilitate and learn how to lead teams within the development of applications in general in the field of technology.
 
 <div align="center">
   <a href="https://github.com/RefesonPinho ">
@@ -22,11 +21,6 @@ From Bahia, Brazil to the world✈🌍
    style="max-width:100%;">,          
   ![mysql (2)](https://user-images.githubusercontent.com/89049212/140742094-41ec6ab2-c66f-4aa2-950f-7c434c758139.png)
  
- 
-
-
- 
-
  
 
  # My network of contacts

@@ -1,7 +1,8 @@
  Hello I'm Refeson Pinho."
 From Bahia, Brazil to the world✈🌍 
+                                                           ![images (3)](https://user-images.githubusercontent.com/89049212/144850779-a8f9cd02-68de-4883-8d7b-33872c380969.jpg)
 
-![image](https://user-images.githubusercontent.com/89049212/138755263-6371bca9-33e4-4301-822c-d362e503f686.png)
+
 
 -Studying second semester in software analysis and development at SENAC College in Joinville-SC.
 

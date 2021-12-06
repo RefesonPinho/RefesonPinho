@@ -9,7 +9,6 @@ From Bahia, Brazil to the world✈🌍
 
 -🌱 I am currently learning the Java language and database disciplines such as (create model, generate script, insert, update and query this data).
 
-
 <div align="center">
   <a href="https://github.com/RefesonPinho ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RefesonPinho&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>

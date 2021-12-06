@@ -1,7 +1,7 @@
 
 
 ![images (3)](https://user-images.githubusercontent.com/89049212/144851949-d470106c-22dc-4d14-a890-d6f565eb1155.jpg)
-From Bahia, Brazil to the world✈🌍 
+From Bahia, Brazil to the world✈🌍 ![download (2)](https://user-images.githubusercontent.com/89049212/144855602-83b23862-c051-4ce9-8dd5-bfb0f3106e8d.jpg)
 
 -Studying second semester in software analysis and development at SENAC College in Joinville-SC.
 

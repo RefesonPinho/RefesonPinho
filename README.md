@@ -1,8 +1,7 @@
    ![devguy3](https://user-images.githubusercontent.com/89049212/144857707-d7e7342a-f3bc-4792-8648-89b11fe1d60d.gif)
- 
-From Bahia, Brazil to the world✈🌍
-![download](https://user-images.githubusercontent.com/89049212/144858514-d74c0492-8c20-4aa7-a785-b988d0459a4f.png)
 
+![download](https://user-images.githubusercontent.com/89049212/144858514-d74c0492-8c20-4aa7-a785-b988d0459a4f.png)
+From Bahia, Brazil to the world✈🌍
 
 
 -Studying second semester in software analysis and development at SENAC College in Joinville-SC. 

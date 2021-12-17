@@ -3,7 +3,7 @@
 
 From Bahia, Brazil to the world✈🌍
 
--Studying second semester in software analysis and development at SENAC College in Joinville-SC. 
+-Starting the third semester in February 2022 in software analysis and development at Faculdade SENAC de Joinville-SC.
 
 -🔭 I am currently looking for an internship in the IT field.
 

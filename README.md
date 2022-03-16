@@ -3,11 +3,11 @@
 
 From Bahia, Brazil to the world✈🌍
 
--Starting the third semester in February 2022 in software analysis and development at Faculdade SENAC de Joinville-SC.
+-Studying the third semester in systems analysis and development at Faculdade SENAC in Joinville-SC..
 
 -🔭 I am currently looking for an internship in the IT field.
 
--🌱 I am currently learning the Java language and database disciplines such as (create model, generate script, insert, update and query this data).
+-🌱 I'm currently learning the C# language and database disciplines like (create model, generate script, insert, update and query this data).
 
 <div align="center">
   <a href="https://github.com/RefesonPinho ">
@@ -16,9 +16,9 @@ From Bahia, Brazil to the world✈🌍
 </div>
 
  # My Skills
-<img align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-   style="max-width:100%;">,          
-  ![mysql (2)](https://user-images.githubusercontent.com/89049212/140742094-41ec6ab2-c66f-4aa2-950f-7c434c758139.png)
+  ![icons8-logo-java-coffee-cup-48](https://user-images.githubusercontent.com/89049212/158676442-95d3449a-6dca-4d2c-a66b-73e11673fa49.png)
+![mysql (2)](https://user-images.githubusercontent.com/89049212/140742094-41ec6ab2-c66f-4aa2-950f-7c434c758139.png)
+<a href="https://www.freeiconspng.com/img/28402" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="48" alt="c# logo download icon" /></a>
  
  
 

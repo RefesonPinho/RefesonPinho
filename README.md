@@ -1,5 +1,6 @@
 ![i](https://user-images.githubusercontent.com/89049212/144874374-1338de5b-1b76-41e2-a8d9-df0858526435.jpg)
-![devguy3](https://user-images.githubusercontent.com/89049212/144870294-c880e3f5-fb9c-4502-9298-14adfaab1f17.gif)
+![devops (2)](https://user-images.githubusercontent.com/89049212/177788655-35d2eaeb-8db1-492b-93ef-23357dd283de.gif)
+
 
 From Bahia, Brazil to the world✈🌍
 

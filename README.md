@@ -2,7 +2,7 @@
 ![devops (2)](https://user-images.githubusercontent.com/89049212/177788655-35d2eaeb-8db1-492b-93ef-23357dd283de.gif)
 
 
-From Bahia, Brazil to the world✈🌍
+From Bahia(Brazil) to the world✈🌍
 
 -Studying the third semester in systems analysis and development at Faculdade SENAC in Joinville-SC..
 

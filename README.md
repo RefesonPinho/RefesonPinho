@@ -4,7 +4,7 @@
 
 From Bahia(Brazil) to the world✈🌍
 
--Studying the third semester in systems analysis and development at Faculdade SENAC in Joinville-SC..
+-Studying the fourth semester in systems analysis and development at Faculdade SENAC in Joinville-SC.
 
 -🔭 I am currently an intern in the DevSecOps area at Compass.Uol
 

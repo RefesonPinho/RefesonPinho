@@ -22,6 +22,8 @@ From Bahia(Brazil) to the world✈🌍
 <a href="https://www.freeiconspng.com/img/28402" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="48" alt="c# logo download icon" /></a>
 ![docker_original_wordmark_logo_icon_146557 (1)](https://user-images.githubusercontent.com/89049212/177085013-f1f31ed7-8e89-4e14-bf65-3d84bf6491c3.png)
 ![linux-client](https://user-images.githubusercontent.com/89049212/177085147-66a9b794-16f7-48e3-8996-085c52dd21e6.png)
+![kubernetes-ar21 (1)](https://user-images.githubusercontent.com/89049212/184568530-7eb8b2a4-9c46-4161-b36a-58ab506257c3.svg)
+
 
 
  

@@ -23,6 +23,9 @@ From Bahia(Brazil) to the world✈🌍
 ![docker_original_wordmark_logo_icon_146557 (1)](https://user-images.githubusercontent.com/89049212/177085013-f1f31ed7-8e89-4e14-bf65-3d84bf6491c3.png)
 ![linux-client](https://user-images.githubusercontent.com/89049212/177085147-66a9b794-16f7-48e3-8996-085c52dd21e6.png)
 ![kubernetes-ar21 (1)](https://user-images.githubusercontent.com/89049212/184568530-7eb8b2a4-9c46-4161-b36a-58ab506257c3.svg)
+![file_type_terraform_icon_130125 (1)](https://user-images.githubusercontent.com/89049212/186157937-594f10b6-9c11-41cc-92b0-3f35225ce03e.png)
+
+
 
 
 

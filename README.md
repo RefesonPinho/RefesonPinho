@@ -5,6 +5,7 @@
 From Bahia(Brazil) to the world✈🌍
 
 🔭- Studying the fourth semester in systems analysis and development at Faculdade SENAC in Joinville-SC. 
+
 -🌱- currently intern in oracle database at Byseven
 
 -🌱 I'm currently learning concepts from the DevSecOps culture and studying a lot about the linux world and its day-to-day commands, docker, kubernetes, Terraform, AWS and etc.

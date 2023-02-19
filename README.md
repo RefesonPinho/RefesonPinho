@@ -1,8 +1,6 @@
 ![i](https://user-images.githubusercontent.com/89049212/144874374-1338de5b-1b76-41e2-a8d9-df0858526435.jpg)
 
-![how-it-works-compressed-new](https://user-images.githubusercontent.com/89049212/219964888-c42b5d45-4a06-4150-be6f-25d7b96ac351.gif)
-
-
+ ![how-it-works-compressed-new](https://user-images.githubusercontent.com/89049212/219964888-c42b5d45-4a06-4150-be6f-25d7b96ac351.gif)
 
 From Bahia(Brazil) to the world✈🌍
 

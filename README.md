@@ -1,5 +1,7 @@
 ![i](https://user-images.githubusercontent.com/89049212/144874374-1338de5b-1b76-41e2-a8d9-df0858526435.jpg)
-![devops (2)](https://user-images.githubusercontent.com/89049212/177788655-35d2eaeb-8db1-492b-93ef-23357dd283de.gif)
+
+![how-it-works-compressed-new](https://user-images.githubusercontent.com/89049212/219964888-c42b5d45-4a06-4150-be6f-25d7b96ac351.gif)
+
 
 
 From Bahia(Brazil) to the world✈🌍
@@ -8,7 +10,7 @@ From Bahia(Brazil) to the world✈🌍
 
 -🌱- currently intern in oracle database at Byseven
 
--🌱 I'm currently learning concepts from the DevSecOps culture and studying a lot about the linux world and its day-to-day commands, docker, kubernetes, Terraform, AWS and etc.
+-🌱 I'm currently learning concepts about Oracle database, Postgres and others. I'm applying all the knowledge acquired with the Oracle database and I've been creating labs at OCI and creating a database, for example, in version 19c with all the necessary configuration for its operation within OCI.
 
 <div align="center">
   <a href="https://github.com/RefesonPinho ">

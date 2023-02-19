@@ -21,6 +21,8 @@ From Bahia(Brazil) to the world✈🌍
  # My Skills
   ![icons8-logo-java-coffee-cup-48](https://user-images.githubusercontent.com/89049212/158676442-95d3449a-6dca-4d2c-a66b-73e11673fa49.png)
 ![mysql (2)](https://user-images.githubusercontent.com/89049212/140742094-41ec6ab2-c66f-4aa2-950f-7c434c758139.png)
+  ![icons8-oracle-logo-48](https://user-images.githubusercontent.com/89049212/219965526-4cee58b9-59fb-4782-a85d-4bd85723e7df.png)
+
 <a href="https://www.freeiconspng.com/img/28402" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="48" alt="c# logo download icon" /></a>
 ![docker_original_wordmark_logo_icon_146557 (1)](https://user-images.githubusercontent.com/89049212/177085013-f1f31ed7-8e89-4e14-bf65-3d84bf6491c3.png)
 ![linux-client](https://user-images.githubusercontent.com/89049212/177085147-66a9b794-16f7-48e3-8996-085c52dd21e6.png)

@@ -4,11 +4,11 @@
 
 From Bahia(Brazil) to the world✈🌍
 
-🔭- Studying the fourth semester in systems analysis and development at Faculdade SENAC in Joinville-SC. 
+🔭- Bachelor in Systems Analysis and Development. 
 
--🌱- currently intern in oracle database at Byseven
+-🌱- Junior DBA in Oracle database.
 
--🌱 I'm currently learning concepts about Oracle database, Postgres and others. I'm applying all the knowledge acquired with the Oracle database and I've been creating labs at OCI and creating a database, for example, in version 19c with all the necessary configuration for its operation within OCI.
+-🌱 Always updating my knowledge about concepts/practices involving Oracle database, Postgres and others. I'm applying all the knowledge acquired with the Oracle database and I've been creating laboratories at OCI and taking certifications to become a more qualified professional every day.
 
 <div align="center">
   <a href="https://github.com/RefesonPinho ">
